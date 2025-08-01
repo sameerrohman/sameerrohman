@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Hello, I’m Sameer Rohman, a Full Stack Web Developer. I build modern, fast, and scalable web apps from custom WordPress sites to full stack applications. I love clean UI, dark themes, and learning by building real-world projects.
+Hello, I’m Sameer Rohman, a Full Stack Web Developer focused on building modern, fast, and scalable web applications. I work on both frontend and backend, turning ideas into functional and efficient products. I enjoy learning new technologies and improving my skills by working on real-world projects.
 </p>
 
 ###
