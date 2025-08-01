@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Hello, I’m Sameer Rohman, a passionate Full Stack Web Developer focused on building modern, fast, and scalable web applications. I work on both frontend and backend, turning ideas into functional and efficient products. I enjoy learning new technologies and continuously improving my skills by working on real-world projects.
+Hello, I’m Sameer Rohman, a Full Stack Web Developer focused on building modern, fast, and scalable web applications. I work on both frontend and backend, turning ideas into functional and efficient products. I enjoy learning new technologies and improving my skills by working on real-world projects.
 </p>
 
 ###
